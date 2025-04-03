@@ -21,3 +21,10 @@ Este repositorio servirá como una guía básica para aprender Git y GitHub.
    ```bash
    git config --global user.name "Tu Nombre"
    git config --global user.email "tu@email.com"
+2. **Inicializar un repositorio:**
+   git init
+3. **Subir tu código a GitHub:**
+   git add .
+   git commit -m "Mi primer commit"
+   git push origin main
+4. **Explora más en la guía completa dentro del repositorio.**
