@@ -1,7 +1,7 @@
 
 ---
 
-## 📌 **Repositorio 2: `git-y-github-para-novatos`**  
+## 📌 `Git-y-github-para-novatos`
 Este repositorio servirá como una guía básica para aprender Git y GitHub.  
 
 ### **Estructura del `README.md`:**  
